@@ -13,7 +13,7 @@ https://youtu.be/QaQvjapXwRk
 *Technological Notes*
 
 * Canvassist uses Canvas' API and OpenAI's API to get information from ChatGPT and from the user's canvas page
-* Canvassist's backend is written in Python
+* Canvassist's backend is written in Python, utilizing pandas to calculate Z-scores from how much a project affects your grade, its due date, and an estimated time to finish the project
 * Canvassist's frontend is written with React.js and CSS
 
 **Project Devs**
